@@ -1,0 +1,12 @@
+structions:
+Check the attached image for the test, you've to build only an HTML structure for the attached images.
+Validate your HTML structure on https://html5.validator.nu/ or if this link didn't work then only use any other HTML validator.
+Please follow semantics while using HTML tags.
+Please use dummy text and images wherever required. For image, you can use http://lorempixel.com/1500/1000, where 1500 is the width's pixel value and 1000 is the height's pixel value. You can change it as per your need and download the dummy image.
+Please submit your work within 4 hours once you start. And after that you can continue your remaining test and send it later.
+Pointing or Marking System would be based on:
+HTML Validation w/o any errors.
+Semantics followed.
+Avoid unnecessary coding.
+Proper commenting.
+Proper use of attributes and values.
